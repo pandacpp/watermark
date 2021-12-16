@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opengl_Watermark-master.iml" filepath="$PROJECT_DIR$/.idea/Opengl_Watermark-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Opengl_Watermark-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Opengl_Watermark-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/watermark_library/Opengl_Watermark-master.watermark_library.iml" filepath="$PROJECT_DIR$/.idea/modules/watermark_library/Opengl_Watermark-master.watermark_library.iml" />
+    </modules>
+  </component>
+</project>
